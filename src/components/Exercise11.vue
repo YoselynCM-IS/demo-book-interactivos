@@ -21,7 +21,7 @@
                     <b-row>
                         <b-col sm="3"><input id="inpExe11" type="text" :pattern="option.number"></b-col>
                         <b-col sm="9">
-                            <button class="btn" :id="`id-${i}`" @click="checkAns(option, i)"><img class="img-e11" :src="require(`@/assets/imgs/exercise11/${option.img}.jpg`)" alt=""></button>
+                            <button class="btn" :id="`id-${i}`" @click="checkAns(option, i)"><img class="img-e11" :src="require(`@/assets/imgs/exercise11/${option.img}.png`)" alt=""></button>
                         </b-col>
                     </b-row>
                 </b-col>
