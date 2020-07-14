@@ -1,0 +1,601 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,900|Montserrat:300,300i,400,400i,500,500i,700,700i|Open+Sans:300,400,400i,700&display=swap');
+
+:root{
+    /** */
+    --fuenteLato: 'Lato', sans-serif;
+    --fuenteMontserrat:'Montserrat', sans-serif;
+    --fuenteMontAlt: 'Montserrat Alternates', sans-serif;
+    /** Colores */
+    --blanco:#FFFFFF;
+    --negro:#000000;
+    --grisClaro:#f2f2f2;
+    --grisobscuro:#c1c1c1;
+    --grisTexto:#17202A;
+    --grisRespuestas:#2C3E50;
+    --rojo:#D01D36;
+    --botonrojo:#d91c5c; 
+    --verde:#84b34a;
+    --botonMorado:#7d4f9d;
+    --morado:#7d4f9d;
+    --amarilloClaro:#f7ca39;
+    --amarilloF:#f2991f;
+    --amarillo2: #eb8b07;
+    --botonMagenta:#e02e70;
+    --rojoma:#A93439;
+    --vino: #c2021c;
+    
+    --contenedor:1200px;
+}
+
+/** Utilerias */
+/* header{
+    overflow: hidden;
+    width: 100%;
+    height: 120px;
+    background-color: var(--rojo);
+} */
+body{
+    font-family: var(--fuenteMontserrat);
+    font-size: 1.2rem;
+    line-height: 2;
+    background-color: var(--grisClaro);
+}
+footer{
+    height: 160px;
+    width: 100%;
+    position:inherit ;
+    margin-bottom: 0px;
+    font-family: var(--fuenteMontserrat);
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 300;
+    background-color: var(--rojo);
+    margin-top: 3rem;
+    padding-top: 3rem;
+}
+.navbar {
+    background-color: var(--rojo);
+}
+.copirygt{
+    padding-top: 3rem;
+    text-align: center;
+}
+div{
+    border:none;
+}
+
+p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+    text-align: justify;
+}
+h1, h2, h3, h4, h5{
+    font-family: var(--fuenteHaeading);
+}
+h1 {
+    font-size: 4.8rem;
+}
+h2 {
+    font-size: 4rem;
+}
+h3 {
+    font-size: 3rem;
+}
+h4 {
+    font-size: 2.4rem;
+}
+table{
+    border:none;
+}
+thead{
+    border: 5px solid var(--grisobscuro);
+    color:var(--grisTexto);
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+th{
+    font-family: var(--fuenteMontAlt);
+    text-transform: uppercase;
+    font-weight: 700;
+    
+}
+
+textarea {
+    font-family: var(--fuenteMontAlt);
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    text-align: justify;
+    line-height: 1.5;
+    color:var(--grisTexto);
+    margin:0;
+    width: 100%;
+    height: 140px;
+    box-sizing: border-box;
+    border: 4px solid var(--grisobscuro);
+    border-radius: 10px;
+    resize: none;
+  }
+
+input{
+    font-family: var(--fuenteLato);
+    font-size: 1.2rem;
+    font-weight: bold;
+    color:var(--grisTexto);
+    text-align: center;
+    margin: 2px;
+    border: 2px solid var(--grisobscuro);
+    border-radius: 15px;
+    
+}
+input:hover{
+    background-color: var(--grisClaro);
+}
+/** Header */
+.contenedor-logo{
+    /* float: left; */
+    padding-top: 10px;
+    /* width: 80px;
+    height: 80px;   */
+}
+.logo{
+    border: none;
+}
+/***/
+.container{
+    width: 100%;
+}
+.cuerpo{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.numero-vineta{
+    font-family: var(--fuenteLato);
+    font-size: 1.2rem;
+    font-weight: 900;
+    color:var(--rojo);
+}
+.instrucciones {
+    font-family: var(--fuenteLato);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color:var(--grisTexto);
+    text-align: justify;
+}
+/** Titulo de ejercicios*/
+.contenedor-titulo{
+    margin-top:1rem;
+}
+.titulo-ejercicios{
+    margin-top:2rem;
+    margin-bottom: 2rem;
+    /* text-transform: uppercase; */
+    font-family: var(--fuenteMontAlt);
+    font-weight: 700;
+    font-size:1.8rem;
+    color: var(--rojo);
+   
+}
+
+/** Multimedia*/
+.numeracion-multimedia{
+    font-display: var(--fuenteLato);
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: var(--negro);
+    
+}
+
+.multimedia{
+    align-items: flex-end;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+audio{
+
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+}
+
+
+/** Botones*/
+
+/* @media (min-width: 768px) { */
+    .contenedor-home{
+        /* float: left; */
+        /* margin-left:70%; */
+        margin-top:3rem;
+    }
+/* } */
+
+
+
+
+
+
+
+
+/** Exercicio 37 */
+.color-paloma{
+    color:red;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 0 5px 10px;
+    border: 5px solid var(--grisobscuro);
+    border-radius: 15px;
+
+  }
+  #numberElem{
+    font-family: var(--fuenteMontAlt);
+    font-weight: 900;
+    color:var(--grisTexto); 
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    cursor: -webkit-grab; cursor: grab;
+  }
+
+  .drop {
+    margin-top:2px;
+    width: 40px;
+    height: 40px;
+    border: 3px solid var(--grisobscuro);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+ 
+  #elements {
+    padding: 30px 30px;
+  }
+  #select {
+    opacity: 0.2;
+  }
+  #numberDisa {
+    color: grey;
+  }
+  #btnTrack {
+    width: 30px;
+    height: 30px;
+  }
+
+
+  /** Ejercicio 46 */
+
+.parrafo {
+    background-color: var(--blanco);
+    padding:2rem;
+    margin-top: 2rem;
+}
+
+/** Ejercicio 46 One*/
+.modal-content{
+    /* border: 3px solid var(--botonrojo); */
+   
+}
+.modal-header{
+    margin: 0px;
+    height: 3rem;
+    /* background-color:var(--botonrojo); */
+}
+
+.btn-primary{
+    margin-top: 1%;
+    height: 100%;
+    width: 70%;
+    margin-left: 15%;
+    background-color: var(--blanco);
+    color:var(--rojo);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border: 2px solid var(--botonrojo);
+}
+
+.btn-primary:hover{
+    background-color: var(--blanco);
+    color:var(--amarilloF);
+    border: 2px solid var(--amarilloF);
+
+}
+.btn-primary:active{
+    background-color: var(--blanco);
+    color:var(--morado);
+    border: 2px solid var(--botonMorado);
+    outline: none;
+}
+.btn-primary:visited{
+    border: none;
+}
+.form-control{
+    position: absolute;
+    display: block;
+    height: 100%;
+    border: 2px solid var(--grisobscuro);
+    font-family: var(--fuenteLato);
+    font-size: 18px;
+    color:var(--grisTexto);
+    outline: none; 
+}
+.form-control:focus{
+    outline: none;
+}
+
+/** Ejercico VERDADERO - FALSO */
+.th-tf{
+    border:transparent;
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.8rem;
+    color:var(--botonMagenta);
+    font-weight: 700;
+    border:5px solid var(--grisClaro);
+}
+.tbody-tf{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    color:var(--grisTexto);
+}
+
+
+
+.reactivos-tf{
+    background-color: var(--blanco);
+    border:15px solid var(--grisClaro);
+    align-content: left;
+}
+
+.radio-tf{
+    align-content: center;
+    border:15px solid var(--grisClaro);   
+}
+.custom-control-label{
+  color: var(--grisobscuro);
+}
+.custom-control-label:active{
+    color:var(--amarilloClaro);
+}
+
+
+
+/** WiteBoard Interactive*/
+.contenedor{
+    margin-left: 25%;
+    width:60%;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    background-color: var(--botonMorado);
+    border: 3px solid var(--botonMorado);
+    border-radius: 20px;
+}
+.elementos-pizzarron{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.6rem;
+}
+.btn-pizzaron{
+    width: 3rem;
+    height: 3rem;
+    align-content: center;
+    background: transparent;;
+    border:3px solid var(--blanco);
+}
+.btn-pizzaron:hover{
+    background: transparent;;
+    border:3px solid var(--grisobscuro);
+}
+.btn-pizzaron:active{
+    background: transparent;
+    color: var(--grisClaro);
+    border:3px solid var(--grisobscuro);
+}
+
+.colores{
+  
+    background: transparent;
+    border:3px solid var(--blanco);
+}
+
+/** Botones */
+
+/** Input*/
+
+
+
+/** Ejercicios */
+/** Ejercicios 4 */
+/** Ejercicios 5 */
+.classDrop5 {
+    width: 250px;
+  }
+  #imgExc5 {
+    width: 200px;
+    height: 170px;
+  }
+  .btn-finish{
+      margin-top: 1rem;
+    font-family: var(--fuenteMontAlt);
+    background-color: var(--amarilloF);
+    width: 200px;
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 1rem;
+    margin-right:15%; 
+  }
+  .btn-finish:hover{
+    font-family: var(--fuenteMontAlt);
+    background-color: var(--verde);
+    color: var(--blanco);  
+}
+.btn-finish:active{
+    font-family: var(--fuenteMontAlt);
+    background-color: var(--verde); 
+    color: var(--blanco); 
+}
+
+.drag{
+    cursor: -webkit-grab; cursor: grab;
+}
+.palabrase5{
+    font-family: var(--fuenteLato);
+    font-size: 1.4rem;
+}
+/** Ejercicios 6 */
+.img-e6{
+    padding-top: 4rem;
+    float: right;
+}
+
+.text-e6 p{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.4rem;
+    letter-spacing: 3pt;
+}
+.text-e6 input{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.4rem;
+    font-weight: bold;
+    color:var(--grisTexto);
+    text-align: center;
+    margin: 2px;
+    border: 2px solid var(--grisobscuro);
+    border-radius: 5px;
+
+}
+.col-md-8 input{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.4rem;
+    font-weight: bold;
+    color:var(--grisTexto);
+    text-align: center;
+    margin: 2px;
+    border: 2px solid var(--grisobscuro);
+    border-radius: 5px;
+    /* text-transform: uppercase; */
+}
+
+/** Ejercicios 7*/
+.preguntas-e7{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    color:var(--grisTexto);
+}
+.numero-e7 input{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.4rem;
+    font-weight: bold;
+    color:var(--grisTexto);
+    text-align: center;
+    margin: 2px;
+    border: 2px solid var(--grisobscuro);
+    border-radius: 5px;
+}
+/** Ejercicios 9*/
+.tabla-e9{
+    width: 100%;
+    padding: 2rem;
+    background-color:var(--blanco);
+}
+.tabla-e9 td{
+    text-align: top;
+}
+
+/** Ejercicio 10*/
+.completar-texto{
+    background-color: var(--blanco);
+    padding: 2rem;
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    color:var(--grisTexto);
+    line-height: 2.5rem;
+
+}
+.custom-select{
+    border: 3px solid #ccc;
+    width: 120px;
+    border-radius: 5px;
+    background-color: var(--grisClaro);
+    font-family: var(--fuenteMontAlt);
+    font-size: 1rem;
+    overflow: hidden;
+}
+
+/** Ejercicio 13*/
+.personaje{
+    width: 25%;
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: right;
+    padding-right: 1rem;
+    line-height: 2rem
+}
+.dialogo{
+    width: 75%;
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-align: justify;
+    padding-right: 1rem;
+    line-height: 2rem
+}
+
+.dialogo-input{
+    width: 75%;
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-align: justify;
+    padding-right: 1rem;
+    line-height: 2rem
+}
+.dialogo-input input{
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color:var(--grisRespuestas);
+}
+.personaje-input{
+    width: 25%;
+    padding: 5px;
+    font-family: var(--fuenteMontAlt);
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: right;
+    padding-right: 1rem;
+    line-height: 2rem;
+}
+
+#linkA { text-decoration: none; color: var(--blanco); }
+#linkA:visited { text-decoration: none; }
+#linkA:hover { text-decoration: underline; }
+#linkA:active { text-decoration: underline; }
+
+/** Ejercico 14*/
+
+
+#idNav{
+    margin-top: 10px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+

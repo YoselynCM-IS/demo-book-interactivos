@@ -1,0 +1,27 @@
+{
+    "0": {
+        "id": 1,
+        "words": "she / What’s / doing / ?",
+        "size": 4
+    },
+    "1": {
+        "id": 2,
+        "words": "you / tonight / dancing / Are / going / ?",
+        "size": 6
+    },
+    "2": {
+        "id": 3,
+        "words": "dad / the / fixing / door / My / front / is / .",
+        "size": 8
+    },
+    "3": {
+        "id": 4,
+        "words": "month / Alfredo / getting / is / next / married / !",
+        "size": 7
+    },
+    "4": {
+        "id": 5,
+        "words": "am / listening / music / to / I / .",
+        "size": 6
+    }
+}

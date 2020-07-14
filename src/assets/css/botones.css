@@ -1,0 +1,165 @@
+
+/** Home */
+.home{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--botonMorado);
+    width: 200px;
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.home:hover{
+    background-color: var(--amarilloF);
+    color:var(--blanco);
+    
+
+}
+.home:active{
+    background-color: var(--amarilloF);
+    color:var(--blanco);
+    
+}
+
+/** Descargar*/
+.descarga-pdf{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--botonMorado);
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.descarga-pdf:hover{
+    background-color: var(--botonMagenta);
+    color:var(--blanco);
+  
+
+}
+.descarga-pdf:active{
+
+    background-color: var(--botonMagenta);
+    color:var(--blanco);
+}
+.descarga-pdf:visited{
+    border: none;
+}
+
+.fafaicono-multimedia{
+    color:var(--naranja);
+    font-size: 2rem;
+    font-weight: 900;
+    border: none;
+}
+
+
+
+.fafaicono-multimedia:hover{
+    color:var(--amarilloF);
+    border: none;
+}
+.fafaicono-multimedia:active{
+    color:var(--botonNaranja);
+    border: none;
+}
+.fafaicono-multimedia:visited{
+    border: none;
+}
+
+/** Check*/
+.btn-evaluar-tf{
+    font-family: var(--fuenteOpensans);
+    width: 200px;
+    background-color: var(--amarilloF);
+    color:var(--blanco);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right:4rem;
+}
+
+.btn-evaluar-tf:hover{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--verde);
+    color: var(--blanco);  
+}
+.btn-evaluar-tf:active{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--verde); 
+    color: var(--blanco); 
+}
+
+/** Boton de ejercicios*/
+
+
+.btn-ejercicios{
+    font-family: var(--fuenteOpensans);
+    width: 200px;
+    background-color: var(--grisClaro);
+    color:var(--grisTexto);
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right:4rem;
+}
+
+.btn-ejercicios:hover{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--grisobscuro);
+    color: var(--blanco);  
+}
+.btn-ejercicios:active{
+    font-family: var(--fuenteOpensans);
+    background-color: var(--grisobscuro); 
+    color: var(--blanco); 
+}
+
+.btnMenu{ font-size: 90%; }
+.btnMenu b{ color:var(--vino); }
+.btnSubMenu{ font-size: 85%; }
+.btnSubMenu b{ color:var(--rojo); }
+
+.btnActivity {
+    background-color: var(--amarilloF);
+    color: white;
+    border-color: var(--amarilloF);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.btnActivity .fontA {
+    font-size: 35px;
+}
+
+.btnActivity:hover {
+    background-color: var(--amarillo2);
+    border-color: var(--amarillo2);
+}
+
+.btnExercise {
+    background-color: var(--rojo);
+    color: white;
+    border-color: var(--rojo);
+}
+
+.btnExercise:hover {
+    background-color: white;
+    color: var(--rojo);
+    border-color: var(--rojo);
+}
+
+#iconPlay {
+    color: blue; font-size: 30px;
+}

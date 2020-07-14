@@ -1,0 +1,42 @@
+{
+    "0": {
+        "number": 1,
+        "image": "page1"
+    },
+    "1": {
+        "number": 2,
+        "image": "page2"
+    },
+    "2": {
+        "number": 3,
+        "image": "page3"
+    },
+    "3": {
+        "number": 4,
+        "image": "page4"
+    },
+    "4": {
+        "number": 5,
+        "image": "page5"
+    },
+    "5": {
+        "number": 6,
+        "image": "page6"
+    },
+    "6": {
+        "number": 7,
+        "image": "page7"
+    },
+    "7": {
+        "number": 8,
+        "image": "page8"
+    },
+    "8": {
+        "number": 9,
+        "image": "page9"
+    },
+    "9": {
+        "number": 10,
+        "image": "page10"
+    }
+}

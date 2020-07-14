@@ -1,0 +1,22 @@
+{
+    "0": {
+        "text": "These are hippos. They are sedentary and live most of the time in water. They weigh up to 500 kilograms. They eat grass.",
+        "image": "hippos",
+        "status": true
+    },
+    "1": {
+        "text": "Those are African buffaloes. They have a body between 2.1 and 3.4 m long. They weigh up to 685 kgs. They are very aggressive animals.",
+        "image": "buffaloes",
+        "status": false
+    },
+    "2": {
+        "text": "This is a hyena. It weighs around 50 kilograms, it is stocky and has extremely powerful jaws. Hyenas eat meat.",
+        "image": "hyena",
+        "status": false
+    },
+    "3": {
+        "text": "That is a hedgehog. It is an amazing mammal, with stiff pointed spines covering its back. They are about 25cm long.",
+        "image": "hedgehog",
+        "status": false
+    }
+}

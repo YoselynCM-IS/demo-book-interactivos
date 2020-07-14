@@ -1,0 +1,14 @@
+{
+    "0": {
+        "option": "The African Five",
+        "status": false
+    },
+    "1": {
+        "option": "The Most Dangerous",
+        "status": false
+    },
+    "2": {
+        "option": "African Wildlife",
+        "status": true
+    }
+}

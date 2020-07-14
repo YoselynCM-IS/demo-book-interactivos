@@ -1,0 +1,27 @@
+{
+    "0": {
+        "form1": "It’s ten fifteen.",
+        "form2": "It’s a quarter past ten.",
+        "status": false
+    },
+    "1": {
+        "form1": "It’s two o’clock.",
+        "form2": "",
+        "status": false
+    },
+    "2": {
+        "form1": "It’s five past one.",
+        "form2": "It’s five after one.",
+        "status": false
+    },
+    "3": {
+        "form1": "It’s seven thirty.",
+        "form2": "It’s half past seven.",
+        "status": false
+    },
+    "4": {
+        "form1": "It’s four forty-five.",
+        "form2": "It’s a quarter to five.",
+        "status": false
+    }
+}

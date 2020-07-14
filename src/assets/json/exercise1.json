@@ -1,0 +1,97 @@
+{
+    "0": {
+        "number": 1,
+        "option": "fish",
+        "status": true
+    },
+    "1": {
+        "number": 2,
+        "option": "pear",
+        "status": true
+    },
+    "2": {
+        "number": 3,
+        "option": "potato",
+        "status": true
+    },
+    "3": {
+        "number": 4,
+        "option": "ice cream",
+        "status": true
+    },
+    "4": {
+        "number": 5,
+        "option": "bread",
+        "status": true
+    },
+    "5": {
+        "number": 6,
+        "option": "banana",
+        "status": true
+    },
+    "6": {
+        "number": 7,
+        "option": "watermelon",
+        "status": true
+    },
+    "7": {
+        "number": 8,
+        "option": "lettuce",
+        "status": true
+    },
+    "8": {
+        "number": 9,
+        "option": "apple",
+        "status": true
+    },
+    "9": {
+        "number": 10,
+        "option": "rice",
+        "status": true
+    },
+    "10": {
+        "number": 11,
+        "option": "cookie",
+        "status": true
+    },
+    "11": {
+        "number": 12,
+        "option": "chicken",
+        "status": true
+    },
+    "12": {
+        "number": 13,
+        "option": "grapes",
+        "status": true
+    },
+    "13": {
+        "number": 14,
+        "option": "avocado",
+        "status": true
+    },
+    "14": {
+        "number": 15,
+        "option": "eggs",
+        "status": true
+    },
+    "15": {
+        "number": 16,
+        "option": "meat",
+        "status": true
+    },
+    "16": {
+        "number": 17,
+        "option": "oil",
+        "status": true
+    },
+    "17": {
+        "number": 18,
+        "option": "candy",
+        "status": true
+    },
+    "18": {
+        "number": 19,
+        "option": "milk",
+        "status": true
+    }
+}

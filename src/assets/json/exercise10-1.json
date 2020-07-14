@@ -1,0 +1,14 @@
+{
+    "0": {
+        "text": "Sports coach",
+        "value": false
+    },
+    "1": {
+        "text": "Gym teacher",
+        "value": true
+    },
+    "2": {
+        "text": "Athlete",
+        "value": false
+    }
+}

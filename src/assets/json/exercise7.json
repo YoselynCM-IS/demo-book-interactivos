@@ -1,0 +1,42 @@
+{
+    "0": {
+        "id": 1,
+        "sentence": "Excuse me …",
+        "number": 2
+    },
+    "1": {
+        "id": 2,
+        "sentence": "Can you repeat that, please?",
+        "number": 7
+    },
+    "2": {
+        "id": 3,
+        "sentence": "I don’t understand …",
+        "number": 1
+    },
+    "3": {
+        "id": 4,
+        "sentence": "What does this mean?",
+        "number": 4
+    },
+    "4": {
+        "id": 5,
+        "sentence": "How do you say … in English?",
+        "number": 6
+    },
+    "5": {
+        "id": 6,
+        "sentence": "Is there any homework for tomorrow?",
+        "number": 3
+    },
+    "6": {
+        "id": 7,
+        "sentence": "What do you mean?",
+        "number": 8
+    },
+    "7": {
+        "id": 8,
+        "sentence": "May I go out for a minute?",
+        "number": 5
+    }
+}

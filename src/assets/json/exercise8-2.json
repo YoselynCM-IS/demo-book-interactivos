@@ -1,0 +1,34 @@
+{
+    "0": {
+        "id": 1,
+        "name": "Diana",
+        "greeting": "Hello! Nice to meet you.",
+        "farewell": "See you around!",
+        "ansgreeting": "",
+        "ansfarewell": ""
+    },
+    "1": {
+        "id": 2,
+        "name": "Tim",
+        "greeting": "",
+        "farewell": "Bye!",
+        "ansgreeting": "",
+        "ansfarewell": ""
+    },
+    "2": {
+        "id": 3,
+        "name": "Fer",
+        "greeting": "Hi!",
+        "farewell": "",
+        "ansgreeting": "",
+        "ansfarewell": ""
+    },
+    "3": {
+        "id": 4,
+        "name": "Luis",
+        "greeting": "Hello! Glad to meet you.",
+        "farewell": "",
+        "ansgreeting": "",
+        "ansfarewell": ""
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "0": {
+        "id": 1,
+        "sentence": "Carla and Rodrigo studied together at university.",
+        "value": "false",
+        "selected": "",
+        "state": null
+    },
+    "1": {
+        "id": 2,
+        "sentence": "They haven’t met for a long time.",
+        "value": "true",
+        "selected": "",
+        "state": null
+    },
+    "2": {
+        "id": 3,
+        "sentence": "They are using Rodrigo’s laptop.",
+        "value": "true",
+        "selected": "",
+        "state": null
+    },
+    "3": {
+        "id": 4,
+        "sentence": "Carla is married.",
+        "value": "false",
+        "selected": "",
+        "state": null
+    },
+    "4": {
+        "id": 5,
+        "sentence": "Carla’s friends do not want her to marry.",
+        "value": "false",
+        "selected": "",
+        "state": null
+    }
+}

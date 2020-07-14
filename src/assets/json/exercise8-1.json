@@ -1,0 +1,26 @@
+{
+    "0": {
+        "id": 1,
+        "sentence": "Hello! "
+    },
+    "1": {
+        "id": 2,
+        "sentence": "See you around!"
+    },
+    "2": {
+        "id": 3,
+        "sentence": "Glad to meet you."
+    },
+    "3": {
+        "id": 4,
+        "sentence": "Bye!"
+    },
+    "4": {
+        "id": 5,
+        "sentence": "Hi!"
+    },
+    "5": {
+        "id": 6,
+        "sentence": "Nice to meet you."
+    }
+}

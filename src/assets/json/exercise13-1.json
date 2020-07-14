@@ -1,0 +1,38 @@
+{
+    "0": {
+        "person": "Operator",
+        "sentence": "Management, General Stores, how can we help you?"
+    },
+    "1": {
+        "person": "Mrs. Sanders",
+        "sentence": "Good afternoon, this is Mrs. Sanders again."
+    },
+    "2": {
+        "person": "Operator",
+        "sentence": "Hello, Mrs. Sanders. I know you want to speak to Mr. Green, but he’s not in."
+    },
+    "3": {
+        "person": "Mrs. Sanders",
+        "sentence": "Well, when does he work? I call everyday and he’s never at the office. What does he do?"
+    },
+    "4": {
+        "person": "Operator",
+        "sentence": "Let me see. On Mondays, he visits the stores in the suburbs. On Tuesdays, he has meetings with his business partners. On Wednesdays, he plays golf all day. On Thursdays, he comes to the office in the afternoon, and on Fridays he visits the stores up north."
+    },
+    "5": {
+        "person": "Mrs. Sanders",
+        "sentence": "Well, today is Thursday and …"
+    },
+    "6": {
+        "person": "Mr. Green",
+        "sentence": "Good afternoon, Monica."
+    },
+    "7": {
+        "person": "Operator",
+        "sentence": "This is your lucky day, Mrs. Sanders. Mr. Green is here now."
+    },
+    "8": {
+        "person": "Mrs. Sanders",
+        "sentence": "Just in time to catch him!"
+    }
+}

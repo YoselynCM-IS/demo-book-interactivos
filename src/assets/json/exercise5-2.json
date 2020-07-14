@@ -1,0 +1,26 @@
+{
+    "0": {
+        "id": 1,
+        "answer": "altar",
+        "selected": "",
+        "state": null
+    },
+    "1": {
+        "id": 2,
+        "answer": "marigolds",
+        "selected": "",
+        "state": null
+    },
+    "2": {
+        "id": 3,
+        "answer": "skulls",
+        "selected": "",
+        "state": null
+    },
+    "3": {
+        "id": 4,
+        "answer": "coffin",
+        "selected": "",
+        "state": null
+    }
+}

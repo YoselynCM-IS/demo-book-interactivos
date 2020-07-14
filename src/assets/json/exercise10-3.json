@@ -1,0 +1,47 @@
+{
+    "0": {
+        "select": "",
+        "answer": "tall",
+        "state": null
+    },
+    "1": {
+        "select": "",
+        "answer": "strong",
+        "state": null
+    },
+    "2": {
+        "select": "",
+        "answer": "healthy",
+        "state": null
+    },
+    "3": {
+        "select": "",
+        "answer": "strong",
+        "state": null
+    },
+    "4": {
+        "select": "",
+        "answer": "short",
+        "state": null
+    },
+    "5": {
+        "select": "",
+        "answer": "flexible",
+        "state": null
+    },
+    "6": {
+        "select": "",
+        "answer": "good",
+        "state": null
+    },
+    "7": {
+        "select": "",
+        "answer": "responsible",
+        "state": null
+    },
+    "8": {
+        "select": "",
+        "answer": "disciplined",
+        "state": null
+    }
+}

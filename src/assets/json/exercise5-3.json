@@ -1,0 +1,20 @@
+{
+    "0": {
+        "id": 1,
+        "answer": "Day of the Dead",
+        "image": "day-dead",
+        "state": true
+    },
+    "1": {
+        "id": 2,
+        "answer": "Answer 2",
+        "image": "answer-2",
+        "state": false
+    },
+    "2": {
+        "id": 3,
+        "answer": "Answer 3",
+        "image": "answer-3",
+        "state": false
+    }
+}
